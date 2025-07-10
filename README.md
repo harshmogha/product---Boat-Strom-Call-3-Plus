@@ -44,7 +44,7 @@ boat-storm-call-3-plus/
 │   └── style.css             # Main stylesheet
 ├── public/
 │   └── images/
-│       └── boat-storm-call-3-plus.png  # Product image
+│       └── Product images
 ├── README.md                 # Project documentation
 └── LICENSE                   # License file
 ```
