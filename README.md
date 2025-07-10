@@ -5,7 +5,7 @@ A modern, responsive landing page for the boAt Storm Call 3 Plus smartwatch buil
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://harshmogha.github.io/product---Boat-Strom-Call-3-Plus/) <!-- Replace with your actual demo link -->
+[View Live Demo](https://harshmogha.github.io/product---Boat-Strom-Call-3-Plus/) 
 
 ## 📋 Table of Contents
 
