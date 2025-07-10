@@ -46,7 +46,6 @@ boat-storm-call-3-plus/
 │   └── images/
 │       └── Product images
 ├── README.md                 # Project documentation
-└── LICENSE                   # License file
 ```
 ## 🚀 Installation
 
@@ -64,7 +63,6 @@ boat-storm-call-3-plus/
 
 2. **Open in browser**
    ```bash
-   # Simply open index.html in your preferred browser
    open index.html
 
 
