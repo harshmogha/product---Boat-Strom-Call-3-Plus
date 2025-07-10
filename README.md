@@ -47,8 +47,7 @@ A modern, responsive landing page for the boAt Storm Call 3 Plus smartwatch buil
 - **Google Fonts** - Typography (Inter font family)
 
 ## 📁 Project Structure
-
-\`\`\`
+```bash
 boat-storm-call-3-plus/
 ├── index.html                 # Main HTML file
 ├── styles/
@@ -58,8 +57,7 @@ boat-storm-call-3-plus/
 │       └── boat-storm-call-3-plus.png  # Product image
 ├── README.md                 # Project documentation
 └── LICENSE                   # License file
-\`\`\`
-
+```
 ## 🚀 Installation
 
 ### Prerequisites
@@ -69,13 +67,13 @@ boat-storm-call-3-plus/
 ### Quick Start
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/harshmogha/product---Boat-Strom-Call-3-Plus.git
    cd product---Boat-Strom-Call-3-Plus
-   \`\`\`
+   
 
 2. **Open in browser**
-   \`\`\`bash
+   ```bash
    # Simply open index.html in your preferred browser
    open index.html
 
